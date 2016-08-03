@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "cd1b8d24-cebd-4293-8bc4-46d73c600cec"
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "seti-icons"
+    ]
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    preferredLineLength: 150
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "fadf0be1-e5b3-a82e-16f5-098b220ba55a"
+  "seti-ui":
+    disableAnimations: true
+    themeColor: "Orange"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".css.scss.source":
+  editor:
+    preferredLineLength: 150
+".sass.source":
+  editor:
+    preferredLineLength: 150
